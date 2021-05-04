@@ -1,0 +1,3 @@
+include ':FaceRecognitionMLLibrary'
+include ':app'
+rootProject.name = "FaceRecognitionMLLibrary"
